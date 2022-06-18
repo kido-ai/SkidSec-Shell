@@ -14,7 +14,7 @@ if(isset($_SESSION['logged_in'])== 'success'){
 			 <input type='password' name='login' placeholder='Enter password'>
 			</form>
 		</div>
-		<style>body{margin: 0;height: 100vh;} .login{justify-content: center;align-items: center;display: flex;background-color: black;width: 100%;height: 100%;position: absolute;}</style>
+		<style>body{margin: 0;height: 100vh;} .login{justify-content: center;align-items: center;display: flex;background-color: black;width: 150%;height: 150%;position: absolute;}</style>
 		";
 	}else{
 		$_SESSION['logged_in'] = 'success';
