@@ -10,4 +10,8 @@ Erase jpg extension
 
 ## up.php
 
-When you upload the files you want, you will be directed to the uploads folder where you will see the files you uploaded.
+> directly create an uploads folder for your files
+>  Example: https://site.com/images/index.html
+>  add uploads in https://site.com/images/uploade/index.html
+
+![This is an image](https://a.top4top.io/p_2376bfbez0.png)
