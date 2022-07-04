@@ -1,10 +1,12 @@
 # SkidSec-WebShell
 
-## How to use our webshell?
 
-## memes.jpg
 
-Replace jpg with php if you are tampering
+## memes.php.jpg
+
+Erase jpg extension
+
+![This is an image](https://a.top4top.io/p_2376bfbez0.png)
 
 ## up.php
 
