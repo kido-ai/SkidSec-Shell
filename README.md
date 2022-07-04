@@ -4,7 +4,7 @@
 
 ## memes.php.jpg
 
-Erase jpg extension
+> Erase jpg extension
 
 ![This is an image](https://a.top4top.io/p_2376bfbez0.png)
 
@@ -14,4 +14,4 @@ Erase jpg extension
 >  Example: https://site.com/images/index.html
 >  add uploads in https://site.com/images/uploade/index.html
 
-![This is an image](https://a.top4top.io/p_2376bfbez0.png)
+![This is an image](https://c.top4top.io/p_2376yx8tw0.png)
