@@ -1,4 +1,4 @@
-# SkidSec-WebShell
+E# SkidSec-WebShell
 
 
 
@@ -12,6 +12,6 @@
 
 > directly create an uploads folder for your files
 >  Example: https://site.com/images/index.html
->  add uploads in https://site.com/images/uploade/index.html
+>  add uploads in link example: https://site.com/images/uploads/index.html
 
 ![This is an image](https://c.top4top.io/p_2376yx8tw0.png)
