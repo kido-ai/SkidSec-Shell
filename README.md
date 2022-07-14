@@ -1,6 +1,6 @@
 # SkidSec-WebShell
 
-## ss_bypass.php
+## ss_priv.hp
 
 ![This is an image](https://d.top4top.io/p_2386rdbv70.png)
 
