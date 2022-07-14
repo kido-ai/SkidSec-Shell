@@ -1,8 +1,12 @@
-E# SkidSec-WebShell
+# SkidSec-WebShell
 
 ## ss_bypass.php
 
 ![This is an image](https://d.top4top.io/p_2386rdbv70.png)
+
+## ss.php
+
+![This is an image](https://h.top4top.io/p_2386hp5f20.png)
 
 ## memes.php.jpg
 
