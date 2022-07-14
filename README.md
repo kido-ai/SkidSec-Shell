@@ -1,10 +1,12 @@
 E# SkidSec-WebShell
 
+## ss_bypass.php
 
+![This is an image](https://d.top4top.io/p_2386rdbv70.png)
 
 ## memes.php.jpg
 
-> Erase jpg extension
+
 
 ![This is an image](https://a.top4top.io/p_2376bfbez0.png)
 
